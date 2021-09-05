@@ -1,0 +1,125 @@
+
+.header-section {
+	background-color: #E3F2FD;
+}
+.logo{}
+.navbar-brand img {
+	height: 65px;
+	width: auto;
+	display: inline-block;
+	/* margin-left: 200px; */
+	margin-top: 5px;
+}
+
+.menu{}
+.menu ul {
+	margin-left: -21px;
+}
+.menu ul li {
+	display: inline-block;
+}
+.menu ul li a {
+	display: inline-block;
+	text-decoration: none;
+	padding: 9px 10px;
+	line-height: 43px;
+}
+.menu ul li a:hover{}
+
+.breadcrumb-item{
+
+}
+
+.breadcrumb {
+	background: #ddd;
+	line-height: 37px;
+	height: 40px;
+	margin-left: 16px;
+}
+
+/* carouselDark */
+
+/* #carouselDark{
+	height: 200px;
+} */
+.w-100 {
+	width: 100% !important;
+	height: 500px;
+}
+.carousel-caption p{
+	color: #fff;
+}
+.carousel-caption h5{
+	color: #fff;
+}
+.carousel-control-prev{
+	color: #fff;
+}
+.carousel-dark .carousel-indicators li {
+	background-color: #fff;
+}
+
+.accordion-flush .accordion-item:last-of-type .accordion-button.collapsed {
+	border-radius: 4px;
+	background: #ddd;
+	height: 50px;
+	color: #037DFF;
+
+}
+.accordion-flush .accordion-item:first-of-type .accordion-button {
+	border-radius: 4px;
+	background: #ddd;
+	height: 50px;
+	color: #037DFF;
+}
+.accordion-flush .accordion-button {
+	border-radius: 4px;
+	background: #ddd;
+	height: 50px;
+	color: #037DFF;
+}
+
+
+
+.pagination-lg .page-link {
+	padding: 5px 21px;
+	font-size: 1.25rem;
+}
+
+element {
+	margin: 0px;
+	position: absolute;
+	inset: auto auto 0px 0px;
+	transform: translate(0px, -38px);
+	
+}
+
+.carousel-dark .carousel-control-next-icon, .carousel-dark .carousel-control-prev-icon {
+	filter: grayscale(100);
+}
+
+.accordion-button {
+	position: relative;
+	display: inline-block;
+	align-items: center;
+	width: 100%;
+	font-size: 1rem;
+	color: #212529;
+	background-color: transparent;
+	border: 1px solid #00000020;
+	/* border-radius: 0; */
+	overflow-anchor: none;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+
+}
+
+.tex {
+	text-align: left;
+}
+
+.foder {
+	height: 58px;
+	line-height: 61px;
+	background-color: #17A2B8;
+}
+.foder b{}
